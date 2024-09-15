@@ -1,0 +1,12 @@
+Emp_id,Emp_name,Position,Salary,branch_no
+E101,John Doe,Manager,60000,B001
+E102,Jane Smith,Clerk,45000,B001
+E103,Mike Johnson,Librarian,55000,B001
+E104,Emily Davis,Assistant,40000,B001
+E105,Sarah Brown,Assistant,42000,B002
+E106,Michelle Ramirez,Assistant,43000,B003
+E107,Michael Thompson,Manager,62000,B002
+E108,Jessica Taylor,Clerk,46000,B002
+E109,Daniel Anderson,Librarian,57000,B002
+E110,Laura Martinez,Assistant,41000,B004
+E111,Christopher Lee,Manager,65000,B003

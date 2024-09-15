@@ -1,0 +1,6 @@
+Return_id,Return_cust,Return_book_name,Return_date,isbn_book2
+RS101,C101,The Catcher in the Rye,2023-06-06,978-0-553-29698-2
+RS102,C102,The Da Vinci Code,2023-06-07,978-0-7432-4722-4
+RS103,C105,The Diary of a Young Girl,2023-06-08,978-0-375-41398-8
+RS104,C108,The Histories,2023-06-09,978-0-14-044930-3
+RS105,C110,A Game of Thrones,2023-06-10,978-0-09-957807-9

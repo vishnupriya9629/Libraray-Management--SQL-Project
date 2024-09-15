@@ -1,0 +1,6 @@
+Issue_Id,Issued_cust,Issued_book_name,Issue_date,Isbn_book
+IS101,C101,The Catcher in the Rye,2023-05-01,978-0-553-29698-2
+IS102,C102,The Da Vinci Code,2023-05-02,978-0-7432-4722-4
+IS103,C103,1491: New Revelations of the Americas Before Columbus,2023-05-03,978-0-7432-7357-1
+IS104,C104,Sapiens: A Brief History of Humankind,2023-05-04,978-0-307-58837-1
+IS105,C105,The Diary of a Young Girl,2023-05-05,978-0-375-41398-8
